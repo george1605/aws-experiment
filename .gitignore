@@ -1,2 +1,6 @@
 *.env
 node_modules/
+*.hcl
+*.lock.info
+.terraform/
+*.tfstate
