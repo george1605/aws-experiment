@@ -40,10 +40,10 @@ async function main() {
   // Upload
   await client.send(new PutObjectCommand({
     Bucket: bucket,
-    Key: "remote.txt",
-    Body: fs.createReadStream("local.txt"),
+    Key: "data.csv",
+    Body: fs.createReadStream("data.csv"),
   }));
-  console.log("Uploaded remote.txt");
+  console.log("Uploaded file data.csv to bucket!");
 
   // List
   const data = await client.send(new ListObjectsV2Command({ Bucket: bucket }));

@@ -1,0 +1,11 @@
+response_id,submitted_at,full_name,email,age,country,profession,satisfaction_score,newsletter_opt_in,feedback
+1,2025-01-02T10:15:23Z,Alex Popescu,alex.popescu@email.com,24,Romania,Student,4,true,"Very useful overall"
+2,2025-01-02T10:18:41Z,Irina Ionescu,irina.i@email.com,31,Romania,Designer,5,true,"Loved the interface"
+3,2025-01-02T10:21:05Z,Mark Jensen,mark.j@email.com,29,Denmark,Software Engineer,3,false,"Good but could be faster"
+4,2025-01-02T10:24:12Z,Elena Marin,elena.m@email.com,35,Romania,Project Manager,4,true,"Clear and intuitive"
+5,2025-01-02T10:28:57Z,Luca Bianchi,luca.b@email.com,41,Italy,Consultant,2,false,"Too many steps"
+6,2025-01-02T10:33:09Z,Sara Novak,sara.n@email.com,27,Croatia,Marketing Specialist,5,true,"Excellent experience"
+7,2025-01-02T10:37:44Z,Andrei Dumitru,andrei.d@email.com,22,Romania,Student,4,false,"Easy to understand"
+8,2025-01-02T10:41:30Z,Emily Carter,emily.c@email.com,34,UK,HR Manager,3,true,"Average, nothing special"
+9,2025-01-02T10:45:55Z,Jonas Müller,jonas.m@email.com,38,Germany,Data Analyst,5,true,"Very well structured"
+10,2025-01-02T10:50:18Z,Maria Santos,maria.s@email.com,26,Portugal,UX Researcher,4,false,"Pleasant overall"
